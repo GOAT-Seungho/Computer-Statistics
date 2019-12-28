@@ -1,4 +1,3 @@
-# INE2018
-2019-2 Computer Statistics lecture at Hanyang University, ERICA
-
-전산통계학 실습
+# Computer Statistics
+* [INE2018] 2019-2 'Computer Statistics' Course at Hanyang University, ERICA
+* A repository for labs source codes
